@@ -92,11 +92,3 @@ This script is intended for internal use by authorized personnel only. Unauthori
 Developed by Subash Subedi 
 
 ```
-
----
-
-Let me know if you want:
-- Screenshots added
-- A version in plain text for offline docs
-- To convert it to a `.pdf` version
-```
